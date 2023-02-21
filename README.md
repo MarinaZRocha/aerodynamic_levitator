@@ -3,7 +3,7 @@
 Trabalho desenvolvido como parte da avaliação da disciplina de Sistema de Controle, do curso de Engenharia de Automação da FURG.
 Construção de um protótipo de um sistema de controle PID de um levitador aerodinâmico.
 
-![imagem1](https://github.com/MarinaZRocha/aerodynamic_levitator/blob/controle/foto4.jpeg)
+![imagem1](https://github.com/MarinaZRocha/aerodynamic_levitator/blob/master/foto4.jpeg)
 
 ## :notebook_with_decorative_cover: 	Materiais utilizados:
 * 1 Tubo de plástico de 52cm de altura;
@@ -20,17 +20,17 @@ Seu funcionamento consiste no sensor ultrassônico que identifica a altura no in
 
 ### Diagrama de blocos
 <p align="center">
-<img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/controle/diagrama_blocos.jpeg" width="500">
+<img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/master/diagrama_blocos.jpeg" width="500">
 </p>
 
 ### Diagrama do circuito
 <p align="center">
-<img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/controle/diagrama_circuito.jpeg" width="500">
+<img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/master/diagrama_circuito.jpeg" width="500">
 </p>
 
 ## :link: Vídeo:
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=n-pNwGUZQv8" target="_blank">
- <img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/controle/capa_video.png" width="800" alt="Watch the video" />
+ <img src="https://github.com/MarinaZRocha/aerodynamic_levitator/blob/master/capa_video.png" width="800" alt="Watch the video" />
 </a>
 </p>
